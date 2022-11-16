@@ -6,10 +6,12 @@ function Carousel() {
                     <img src="mami.jpg" className="img-fluid" alt="10" />
                 </div>
                 <div className="carousel-item">
+                    <p className="fst-italic">Esta es mi bebe Sara Isabella Castro piamba,de ella admiro que es una niña muy inteligente y educada.</p>
                     <img src="isa.jpg" className="img-fluid" alt="10" />
                 </div>
                 <div className="carousel-item">
-                    <img src="mi_abu.jpg" className="img-fluid" alt="10" />
+                    <p className="fst-item">Ella es mi motivacion para seguir estudiando y trabajando,y ahora estoy estudiando progracion  en la fundacion soy mas y esto es lo que he aprendido.html,css y javascrip.</p>
+                    <img src="thml.jpg" className="img-fluid" alt="10" />
                 </div>
             </div>
             <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
